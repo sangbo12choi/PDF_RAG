@@ -40,3 +40,8 @@ cache/
 
 # 데이터 파일 (선택적 - 필요시 주석 해제)
 # data/pdfs/*.pdf
+
+# 병합된 PDF 파일 (용량이 커서 제외)
+data/merged_pdf.pdf
+# 병합된 PDF 파일 (용량이 커서 제외)
+data/merged_pdf.pdf
